@@ -1,4 +1,6 @@
 # best-repo-ever
 Test
 This is another Test
-new branch - 1
+This is another Test - 2
+This is another Test - 3
+
